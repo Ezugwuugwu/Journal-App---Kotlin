@@ -4,10 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/drawable/colored_border.xml" value="0.251" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/drawable/dashed_border.xml" value="0.2095" />
         <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
-        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_home.xml" value="0.11510416666666666" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_home.xml" value="0.132" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_home2.xml" value="0.1" />
         <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_login.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_profile.xml" value="0.19701086956521738" />
         <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/fragment_register.xml" value="0.1" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/layout/journal.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/23480/AndroidStudioProjects/MyJournal/app/src/main/res/menu/menu_main.xml" value="0.25052083333333336" />
       </map>
     </option>
   </component>

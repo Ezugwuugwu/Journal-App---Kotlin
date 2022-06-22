@@ -30,8 +30,6 @@ class Login : Fragment() {
     }
 
     private val loginViewModel: LoginViewModel by viewModels()
-
-
     private lateinit var loginBinding: FragmentLoginBinding
 
     override fun onCreateView(
